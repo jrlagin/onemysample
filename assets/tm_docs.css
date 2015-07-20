@@ -1,10 +1,10 @@
 /*-----------------------------------
-Template Monster`s Framework Styles
+
 -----------------------------------*/
-#advanced span.trigger{display:block;position:absolute; background:url(../img/tm/pro_button.png) 0 0 no-repeat; width:42px; height:42px; right:0; bottom:-42px; cursor:pointer;}
-#advanced span.trigger strong{display:block; background: url(../img/tm/plus-minus.png) 0 0 no-repeat; width:11px; height:11px; position:absolute; right:7px; bottom:24px; opacity:0;}
+#advanced span.trigger{display:block;position:absolute; background:url() 0 0 no-repeat; width:42px; height:42px; right:0; bottom:-42px; cursor:pointer;}
+#advanced span.trigger strong{display:block; background: url() 0 0 no-repeat; width:11px; height:11px; position:absolute; right:7px; bottom:24px; opacity:0;}
 #advanced.closed span.trigger strong{opacity:1;}
-#advanced span.trigger em{display:block; background: url(../img/tm/plus-minus.png) -11px 0 no-repeat; width:11px; height:11px; position:absolute; right:7px; bottom:24px;}
+#advanced span.trigger em{display:block; background: url() -11px 0 no-repeat; width:11px; height:11px; position:absolute; right:7px; bottom:24px;}
 #panel .navbar-fixed-top{
   position: relative;
 }
@@ -694,7 +694,7 @@ max-width: 100%;
 #advanced span.trigger{
   display:block;
   position:absolute; 
-  background:url(../img/tm/pro_button.png) 0 0 no-repeat; 
+  background:url() 0 0 no-repeat; 
   width:42px; 
   height:42px; 
   right:0; 
@@ -703,7 +703,7 @@ max-width: 100%;
 }
 #advanced span.trigger strong{
   display:block; 
-  background: url(../img/tm/plus-minus.png) 0 0 no-repeat; 
+  background: url() 0 0 no-repeat; 
   width:11px; 
   height:11px; 
   position:absolute; 
@@ -716,7 +716,7 @@ max-width: 100%;
 }
 #advanced span.trigger em{
   display:block; 
-  background: url(../img/tm/plus-minus.png) -11px 0 no-repeat; 
+  background: url() -11px 0 no-repeat; 
   width:11px; 
   height:11px; 
   position:absolute; 
